@@ -1,0 +1,6 @@
+I have used Python Version 3.8
+I do not have Linux System and my system have issues with virtual machines like virtualbox or docker
+From the terminal cmd I have to >>> cd D:\Users\Shouryadip\PycharmProjects\Flask_todo_app
+then I have to activate virtual enviournment >>> .\env\Scripts\activate.ps1
+after that>>> python .\app.py
+The Web App will Run on Local Host
